@@ -1,0 +1,12 @@
+.app{
+  padding: 10px;
+  box-sizing: content-box;
+  
+}
+.content{
+display: flex;
+height: 100vh;
+flex-direction: column;
+align-items: center;
+justify-content: space-around;
+}
